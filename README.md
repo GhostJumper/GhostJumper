@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Student and Developer!
 
--   🔭 I’m currently taking part in a [Web Dev Course][website]!
+-   🔭 I’m currently taking part in a Web Dev Course!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Contribute more to Open Source projects
