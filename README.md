@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Unrea1's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GhostJumper&show_icons=true&hide_border=true" />
+  <img align="left" alt="Unrea1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GhostJumper" />
 
 </details>
 
